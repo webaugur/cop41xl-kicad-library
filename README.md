@@ -3,18 +3,24 @@
 Library of schematic components in the COP400 Microprocessor Family
 
 Currently included are:
+* COP310C - Single-Chip CMOS Microcontroller
 * COP310L - Single-Chip N-Channel Microcontroller
 * ETL9310 - Single-Chip N-Channel Microcontroller
+* COP311C - Single-Chip CMOS Microcontroller
 * COP311L - Single-Chip N-Channel Microcontroller
 * ETL9311 - Single-Chip N-Channel Microcontroller
 * COP401L - ROMless N-Channel Microcontroller
 * COP410L - Single-Chip N-Channel Microcontroller
 * ETL9410 - Single-Chip N-Channel Microcontroller
+* COP411C - Single-Chip CMOS Microcontroller
 * COP411L - Single-Chip N-Channel Microcontroller
 * ETL9411 - Single-Chip N-Channel Microcontroller
 
 ## Datasheets
-* https://atarihq.com/danb/files/COP411.PDF
+* Single N-MOS - https://atarihq.com/danb/files/COP411.PDF
+* Single CMOS - http://kazojc.com/elementy_czynne/IC/COP311C.pdf
+* ROMLess NMOS - http://kazojc.com/elementy_czynne/IC/COP401L.pdf
+* COP400 - http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
 
 ## Contributions
 Please file an Issue or Pull Request at 
