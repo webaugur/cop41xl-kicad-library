@@ -19,6 +19,7 @@ Currently included are:
 * COP422  - Single-Chip N-Channel Microcontroller
 * COP422C - Single-Chip CMOS Microcontroller
 * COP422L - Single-Chip N-Channel Microcontroller
+* COP426C - Single-Chip CMOS Microcontroller
 
 ## Datasheets
 * Single N-MOS - https://atarihq.com/danb/files/COP411.PDF
