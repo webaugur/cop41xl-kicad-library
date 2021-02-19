@@ -24,4 +24,10 @@ K COP400 microcontroller
 F https://atarihq.com/danb/files/COP411.PDF
 $ENDCMP
 #
+$CMP COP421L
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
 #End Doc Library
