@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP COP303
+D ROMless N-Channel Microcontroller
+K COP400 microcontroller
+F http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
+$ENDCMP
+#
 $CMP COP310C
 D Single-Chip CMOS Microcontroller
 K COP400 microcontroller
@@ -22,6 +28,24 @@ $CMP COP311L
 D Single-Chip N-Channel Microcontroller
 K COP400 microcontroller
 F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP COP313C
+D Single-Chip CMOS Microcontroller
+K COP400 microcontroller
+F http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
+$ENDCMP
+#
+$CMP COP313CH
+D Single-Chip CMOS Microcontroller
+K COP400 microcontroller
+F http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
+$ENDCMP
+#
+$CMP COP313L
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
 $ENDCMP
 #
 $CMP COP321L
@@ -58,6 +82,12 @@ $CMP COP411L
 D Single-Chip N-Channel Microcontroller
 K COP400 microcontroller
 F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP COP413C
+D Single-Chip CMOS Microcontroller
+K COP400 microcontroller
+F http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
 $ENDCMP
 #
 $CMP COP413L
