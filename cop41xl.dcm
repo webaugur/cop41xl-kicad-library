@@ -60,6 +60,12 @@ K COP400 microcontroller
 F https://atarihq.com/danb/files/COP411.PDF
 $ENDCMP
 #
+$CMP COP413L
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
+$ENDCMP
+#
 $CMP COP421L
 D Single-Chip N-Channel Microcontroller
 K COP400 microcontroller
@@ -68,6 +74,12 @@ $ENDCMP
 #
 $CMP COP422
 D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
+$ENDCMP
+#
+$CMP COP422C
+D Single-Chip CMOS Microcontroller
 K COP400 microcontroller
 F http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
 $ENDCMP

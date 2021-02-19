@@ -15,6 +15,7 @@ Currently included are:
 * COP411C - Single-Chip CMOS Microcontroller
 * COP411L - Single-Chip N-Channel Microcontroller
 * ETL9411 - Single-Chip N-Channel Microcontroller
+* COP413L - Single-Chip N-Channel Microcontroller
 * COP402  - ROMless N-Channel Microcontroller
 * COP422  - Single-Chip N-Channel Microcontroller
 * COP422C - Single-Chip CMOS Microcontroller
