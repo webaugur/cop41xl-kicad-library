@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP COP2442
+D Single-Chip Dual CPU Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
 $CMP COP303
 D ROMless N-Channel Microcontroller
 K COP400 microcontroller
@@ -8,7 +14,7 @@ $ENDCMP
 #
 $CMP COP310C
 D Single-Chip CMOS Microcontroller
-K COP400 microcontroller
+K COP400 microcontroller CMOS
 F https://atarihq.com/danb/files/COP411.PDF
 $ENDCMP
 #
@@ -20,7 +26,7 @@ $ENDCMP
 #
 $CMP COP311C
 D Single-Chip CMOS Microcontroller
-K COP400 microcontroller
+K COP400 microcontroller CMOS
 F https://atarihq.com/danb/files/COP411.PDF
 $ENDCMP
 #
@@ -66,6 +72,12 @@ K COP400 microcontroller
 F http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
 $ENDCMP
 #
+$CMP COP410C
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller CMOS
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
 $CMP COP410L
 D Single-Chip N-Channel Microcontroller
 K COP400 microcontroller
@@ -74,7 +86,7 @@ $ENDCMP
 #
 $CMP COP411C
 D Single-Chip CMOS Microcontroller
-K COP400 microcontroller
+K COP400 microcontroller CMOS
 F https://atarihq.com/danb/files/COP411.PDF
 $ENDCMP
 #
@@ -94,6 +106,12 @@ $CMP COP413L
 D Single-Chip N-Channel Microcontroller
 K COP400 microcontroller
 F http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
+$ENDCMP
+#
+$CMP COP421
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
 $ENDCMP
 #
 $CMP COP421L
@@ -120,10 +138,46 @@ K COP400 microcontroller
 F http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
 $ENDCMP
 #
+$CMP COP425C
+D Single-Chip CMOS Microcontroller
+K COP400 microcontroller CMOS
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
 $CMP COP426C
 D Single-Chip CMOS Microcontroller
 K COP400 microcontroller
 F http://vtda.org/docs/computing/NatSemi/424410284-001A_COPSProgrammingManual_Feb85.pdf
+$ENDCMP
+#
+$CMP COP442
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP COP445C
+D Single-Chip CMOS Microcontroller
+K COP400 microcontroller CMOS
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP COP445L
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP COP465
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP COP485
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
 $ENDCMP
 #
 $CMP ETL9310
