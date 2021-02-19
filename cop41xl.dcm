@@ -1,3 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP COP310L
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP COP311L
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP COP410L
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP COP411L
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
 #End Doc Library
