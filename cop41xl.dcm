@@ -12,6 +12,18 @@ K COP400 microcontroller
 F https://atarihq.com/danb/files/COP411.PDF
 $ENDCMP
 #
+$CMP COP321L
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP COP401L
+D ROMIess N-Channel Microcontroller
+K COP400 microcontroller
+F http://kazojc.com/elementy_czynne/IC/COP401L.pdf
+$ENDCMP
+#
 $CMP COP410L
 D Single-Chip N-Channel Microcontroller
 K COP400 microcontroller
@@ -25,6 +37,30 @@ F https://atarihq.com/danb/files/COP411.PDF
 $ENDCMP
 #
 $CMP COP421L
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP ETL9310
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP ETL9311
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP ETL9410
+D Single-Chip N-Channel Microcontroller
+K COP400 microcontroller
+F https://atarihq.com/danb/files/COP411.PDF
+$ENDCMP
+#
+$CMP ETL9411
 D Single-Chip N-Channel Microcontroller
 K COP400 microcontroller
 F https://atarihq.com/danb/files/COP411.PDF

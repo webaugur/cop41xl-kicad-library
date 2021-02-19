@@ -3,10 +3,15 @@
 Library of schematic components in the COP400 Microprocessor Family
 
 Currently included are:
-* COP310L
-* COP311L
-* COP410L
-* COP411L
+* COP310L - Single-Chip N-Channel Microcontroller
+* ETL9310 - Single-Chip N-Channel Microcontroller
+* COP311L - Single-Chip N-Channel Microcontroller
+* ETL9311 - Single-Chip N-Channel Microcontroller
+* COP401L - ROMless N-Channel Microcontroller
+* COP410L - Single-Chip N-Channel Microcontroller
+* ETL9410 - Single-Chip N-Channel Microcontroller
+* COP411L - Single-Chip N-Channel Microcontroller
+* ETL9411 - Single-Chip N-Channel Microcontroller
 
 ## Datasheets
 * https://atarihq.com/danb/files/COP411.PDF
