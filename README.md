@@ -17,7 +17,8 @@ https://github.com/webaugur/cop41xl-kicad-library
 
 ## License 
 Copyright 2021, David L Norris
-This library is licensed under the GNU LGPL v3, which can be found in LICENSE.txt
+
+This library is licensed under the GNU LGPL v3, which can be found in LICENSE.md
 
 ## Library Setup
 
