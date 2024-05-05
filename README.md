@@ -36,6 +36,8 @@ Currently included are:
 * COP485  - Single-Chip N-Channel Microcontroller
 
 ## Datasheets
+* National Semiconductor data book - 
+https://archive.org/details/bitsavers_nationaldaMicrocontrollersDatabook_46024941/page/n67/mode/1up?q=cop411
 * Single N-MOS - https://atarihq.com/danb/files/COP411.PDF
 * Single CMOS - http://kazojc.com/elementy_czynne/IC/COP311C.pdf
 * ROMLess NMOS - http://kazojc.com/elementy_czynne/IC/COP401L.pdf
